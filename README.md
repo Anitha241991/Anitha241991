@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anitha241991
 - 👀 I’m interested in Embedded c programming and Embedded Linux
-- 🌱 I’m currently learning Embedded Systems
+- 🌱 I’m currently ready to learn anythings on firmware engineering
 - 💞️ I’m looking to collaborate on Embedded C programming
 - 📫 How to reach me jenniferdsilva09@gmail.com
 
